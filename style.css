@@ -4,6 +4,7 @@
     text-decoration: none;
     vertical-align: bottom;
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 .header{
 position: fixed;
